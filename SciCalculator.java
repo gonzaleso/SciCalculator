@@ -152,3 +152,4 @@ public class SciCalculator
         System.out.print("\nThanks for using this calculator. Goodbye!");
     }
 }
+// I just added my first code to Github!
